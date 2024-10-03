@@ -1,0 +1,8 @@
+{
+  "headers": ["Nombre", "Apellido", "Edad", "Email"],
+  "requiredFields": [
+    {"columnIndex": 0},
+    {"columnIndex": 1},
+    {"columnIndex": 3}
+  ]
+}
